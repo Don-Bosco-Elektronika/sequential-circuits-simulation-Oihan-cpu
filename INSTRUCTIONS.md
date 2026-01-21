@@ -6,16 +6,11 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
 
-**Ejercicio (ES):**  
-Simula el funcionamiento de los siguientes circuitos integrados, utilizando entradas con resistencias *pull-up* y salidas visualizadas mediante LEDs.  
 
 **Ariketa (EU):**  
 Hurrengo zirkuitu integratuen funtzionamendua simulatu, sarrera *pull-up* erresistentziak eta LED bidez ikusgai diren irteerak erabiliz.  
 
-**Exercice (EN):**  
-Simulate the operation of the following integrated circuits, using pull-up resistors on the inputs and outputs visualized with LEDs.  
 
 ---
 
