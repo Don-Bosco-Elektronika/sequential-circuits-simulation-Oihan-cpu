@@ -6,29 +6,31 @@
 
 ---
 
-## 📌 Ejercicio / Ariketa / Exercice
 
-**Ejercicio (ES):**  
-Simula el funcionamiento de los siguientes circuitos integrados, utilizando entradas con resistencias *pull-up* y salidas visualizadas mediante LEDs.  
 
 **Ariketa (EU):**  
 Hurrengo zirkuitu integratuen funtzionamendua simulatu, sarrera *pull-up* erresistentziak eta LED bidez ikusgai diren irteerak erabiliz.  
 
-**Exercice (EN):**  
-Simulate the operation of the following integrated circuits, using pull-up resistors on the inputs and outputs visualized with LEDs.  
 
 ---
 
 ## 🔲 Circuitos a Simular / Simulatzeko zirkuituak / Circuits to Simulate
 
-- **4044** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **74100** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **74175** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **7476** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **4027** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description.  
-- **74164** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description.  
-- **74165** → ✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
-- **74595** →✍️ Escribe aquí la descripción / Idatzi hemen describapena / Write the description. 
+4044 → RS motatako flip-flop txipa, lau latch independente dituena.
+
+74100 → JK motatako flip-flop txipa, bi flip-flop dituena eta abiadura handikoa.
+
+74175 → D motatako flip-flop txipa, lau D flip-flop independente dituena.
+
+7476 → JK motatako flip-flop txipa, bi JK flip-flop independente dituena.
+
+4027 → JK motatako flip-flop txipa, bi flip-flop independente dituena (CMOS teknologia).
+
+74164 → D motatako desplazamendu-erregistroa, serie-sarrerarekin eta paralelo-irteerarekin.
+
+74165 → D motatako desplazamendu-erregistroa, paralelo-sarrerarekin eta serie-irteerarekin.
+
+74595 → D motatako desplazamendu-erregistroa, serie-sarrerarekin eta paralelo-irteerarekin, latch integratuarekin.
 
 ---
 
